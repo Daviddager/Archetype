@@ -5,6 +5,6 @@
   <artifactId>osb11g</artifactId>
   <version>1.0-SNAPSHOT</version>
   <name>Archetype - osb11g</name>
-  <url>http://maven.apache.org</url>
+  <url>http://github.com/Daviddager/Archetype</url>
 </project>
 
