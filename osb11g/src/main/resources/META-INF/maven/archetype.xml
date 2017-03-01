@@ -1,0 +1,15 @@
+<archetype>
+  <id>osb11g</id>
+  <resources>
+	  <source>src/business-service</source>
+	  <source>src/proxy-service</source>
+	  <source>src/resources/jar</source>
+	  <source>src/resources/jca</source>
+	  <source>src/resources/mq</source>
+	  <source>src/resources/schemas</source>
+	  <source>src/resources/splitJoin</source>
+	  <source>src/resources/wsdl</source>
+	  <source>src/resources/xquery</source>
+	  <source>src/resources/xsd</source>
+  </resources>
+</archetype>
