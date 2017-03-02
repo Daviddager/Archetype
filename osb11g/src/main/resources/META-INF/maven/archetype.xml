@@ -1,15 +1,15 @@
 <archetype>
   <id>osb11g</id>
   <resources>
-	  <source>src/business-service</source>
-	  <source>src/proxy-service</source>
-	  <source>src/resources/jar</source>
+	  <source>src/main/business-service/_artifactId_ServiceBS.biz</source>
+	  <source>src/proxy-service/_artifactId_ServicePS.proxy</source>
+	  <source>src/main/resources/jar</source>
 	  <source>src/resources/jca</source>
 	  <source>src/resources/mq</source>
 	  <source>src/resources/schemas</source>
 	  <source>src/resources/splitJoin</source>
-	  <source>src/resources/wsdl</source>
+	  <source>src/resources/wsdl/_artifactId_Service.wsdl</source>
 	  <source>src/resources/xquery</source>
-	  <source>src/resources/xsd</source>
+	  <source>src/resources/xsd/_artifactId_Service.xsd</source>
   </resources>
 </archetype>
