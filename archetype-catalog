@@ -1,0 +1,14 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+<archetype-catalog xmlns="http://maven.apache.org/plugins/maven-archetype-plugin/archetype-catalog/1.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/plugins/maven-archetype-plugin/archetype-catalog/1.0.0 http://maven.apache.org/xsd/archetype-catalog-1.0.0.xsd">
+    <archetypes>
+        <archetype>
+            <groupId>nl.syntouch.examples.servicebus</groupId>
+            <artifactId>MavenArchetypeService-archetype</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <repository>https://github.com/Daviddager/Archetype</repository>
+            <description>Archetype for OSB11g projects</description>
+        </archetype>
+    </archetypes>
+</archetype-catalog>
